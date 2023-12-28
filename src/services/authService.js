@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_URL = 'https://web-service-resto.onrender.com'
+const API_URL ='https://backkk-tzju.onrender.com'
 
 
 

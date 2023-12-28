@@ -1,7 +1,7 @@
 import axios from "axios";
 
 //const API_URL = "https://threew-apis.onrender.com/api";
-const API_URL = "https://web-service-resto.onrender.com";
+const API_URL = "https://backkk-tzju.onrender.com";
 // Get foods
 const getFoods = async () => {
   try {
